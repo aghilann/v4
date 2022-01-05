@@ -1,15 +1,11 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Leetcode Practice'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/aghilann/LeetCode_Practice'
+external: 'https://github.com/aghilann/LeetCode_Practice'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Python
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A repository of the Leetcode questions I have solved, enabling to keep tracking of my progession in learning Data Structures and Algorithims.

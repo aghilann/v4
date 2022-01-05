@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'Flask', 'SQLite3', 'HTML and CSS', 'PostgreSQL', 'DrRacket'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,33 +136,29 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Aghilan and I enjoy creating things that live on the internet. My
+              interest in web development started at the end of 2021 when I was stuck quarantining in my room after I got COVID, 
+              when I decided to try building a Flask CRUD application. I didn't think it would be too hard. 
+                
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I was wrong, I struggled immensely and often felt overwhelmed bu the number of moving parts 
+              in the back-end of my web application. I struggled with implementing common features such as password encryption which is made very easy with Flask modules. There are many processes that I as a user never think about, building this application allowed me to experience a sense of awe for these large projects but also share the satisfaction and frustration involved in the process of buidling and deploying a site.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              Although I love programming, it is just one of my few hobbies. I also enjoy learning about Physics on the super small, or super massive scales.
+              I enjoy learning about philsophy and different schools of thought's on how life should be lived. Ironically, I never ponder on the meaning of life is or how to be a good person, I've learned there is less value in thinking about these questions and more so in doing. 
+              I am deeply interested in Stoicism and it's teachings, it particular the meditations of
+              {' '}
+              <a href="https://www.amazon.ca/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255/ref=sr_1_1?crid=2QJ1RBODP1RPJ&keywords=Meditations&qid=1641329621&sprefix=meditations%2Caps%2C139&sr=8-1">
+                Marcus Aurelius
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              and how I can learn to be <span style={{fontStyle: 'italic'}}>"indifferent to what makes no difference."</span>
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I’ve been exploring recently:</p>
           </div>
 
           <ul className="skills-list">

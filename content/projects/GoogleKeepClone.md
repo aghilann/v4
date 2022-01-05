@@ -1,12 +1,11 @@
 ---
-date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+date: '2022-01-01'
+title: 'Leetcode Practice'
+github: 'https://github.com/aghilann/LeetCode_Practice'
+external: 'https://github.com/aghilann/LeetCode_Practice'
 tech:
-  - Vue
-  - Firebase
+  - Python
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+A repo of the Leetcode questions I have solved.

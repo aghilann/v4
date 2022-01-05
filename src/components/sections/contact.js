@@ -60,8 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Although I’m not currently looking for any new opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+        I am currenly searcing for internships for the Summer of 2023 and beyond, the best way to reach me is through my LinkedIn, my cell (403-400-3726) or nathanaghilan@gmail.com. Whether you have a question or just want to say hi, I will get back to you!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

@@ -1,16 +1,12 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'The N-Queens Problem'
+cover: './course-card.jpg'
+github: 'https://github.com/aghilann/Backtracking-Search/blob/main/NQueens.rkt'
+external: 'https://github.com/aghilann/Backtracking-Search/blob/main/NQueens.rkt'
+cta: ''
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - DrRacket
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+My solution to the N-Queens problem using recursive backtracking search. For each board, I generated the the n number of possibillties at the next level and removed invalid boards. Once the nth queen is placed, the board is valid and the current board is displayed to the user.
