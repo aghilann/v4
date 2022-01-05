@@ -143,7 +143,7 @@ const About = () => {
             </p>
 
             <p>
-              I was wrong, I struggled immensely and often felt overwhelmed bu the number of moving parts 
+              I was wrong, I struggled immensely and often felt overwhelmed by the number of moving parts 
               in the back-end of my web application. I struggled with implementing common features such as password encryption which is made very easy with Flask modules. There are many processes that I as a user never think about, building this application allowed me to experience a sense of awe for these large projects but also share the satisfaction and frustration involved in the process of buidling and deploying a site.
             </p>
 
