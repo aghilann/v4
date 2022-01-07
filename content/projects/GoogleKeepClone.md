@@ -1,11 +1,14 @@
 ---
 date: '2022-01-01'
-title: 'Leetcode Practice'
-github: 'https://github.com/aghilann/LeetCode_Practice'
-external: 'https://github.com/aghilann/LeetCode_Practice'
+title: 'Python Networks'
+github: 'https://github.com/aghilann/Python-Network'
+external: 'https://github.com/aghilann/Python-Network'
 tech:
   - Python
 showInProjects: true
 ---
 
-A repo of the Leetcode questions I have solved.
+Mailing Client
+DDOS Script
+Port Scanner
+TCP Chat Room
