@@ -1,1 +1,1 @@
-I did not create this site, it was made by brittanychiang.com
+I did not design this site, it was made by brittanychiang.com
