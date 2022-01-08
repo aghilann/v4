@@ -148,7 +148,7 @@ const About = () => {
             </p>
 
             <p>
-              Although I love programming, it is just one of my few hobbies. I also enjoy learning about Physics on the super small, or super massive scales.
+              Although programming is my predominant hobby, I also enjoy learning about Physics on the super small, and super massive scales.
               I enjoy learning about philsophy and different schools of thought's on how life should be lived. Ironically, I never ponder on the meaning of life is or how to be a good person, I've learned there is less value in thinking about these questions and more so in doing. 
               I am deeply interested in Stoicism and it's teachings, it particular the meditations of
               {' '}
