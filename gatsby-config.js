@@ -5,7 +5,7 @@ module.exports = {
     title: 'Aghilan Nathan',
     description:
       '',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://aghilan.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
