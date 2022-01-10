@@ -10,5 +10,3 @@ showInProjects: true
 
 - Mailing Client
 - DDOS Script
-- Port Scanner
-- TCP Chat Room
