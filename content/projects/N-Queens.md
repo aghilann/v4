@@ -11,5 +11,5 @@ showInProjects: true
 - Practice for CPSC110 course
 - Recursive Backtracking Search
 - Generated All Possibillties
-- Remove invalid boards
+- Removed invalid boards
 - Continue until solution is found or failure
