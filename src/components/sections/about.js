@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React, { useEffect, useRef } from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
@@ -126,7 +127,15 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Flask', 'JavaScript(ES6)', 'HTML and CSS', 'PostgreSQL', 'SQLite3'];
+  const skills = [
+    'Python',
+    'React',
+    'TypeScript',
+    'JavaScript(ES6)',
+    'PostgreSQL',
+    'Flask',
+    'HTML and CSS',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
