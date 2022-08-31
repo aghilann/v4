@@ -1,11 +1,13 @@
 ---
 date: '2'
-title: 'Leetcode Practice'
+title: 'Leetcode Visualizer'
 cover: './demo.png'
-github: 'https://github.com/aghilann/LeetCode_Practice'
-external: 'https://github.com/aghilann/LeetCode_Practice'
+github: 'https://github.com/aghilann/LeetCode-Visualizer-v2'
+external: 'https://github.com/aghilann/LeetCode-Visualizer-v2'
 tech:
-  - Python
+  - TypeScript
+  - React
+  - HTML/CSS
 ---
 
-A repository of the Leetcode questions I have solved, enabling to keep tracking of my progession in learning Data Structures and Algorithims.
+My first project with React + TS, made so user's can visualize their progress in different problem groupings of questions which would be commonly appear on technical interviews.

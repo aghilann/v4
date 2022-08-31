@@ -1,8 +1,10 @@
-import React, { useState, useEffect } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
+import React, { useEffect, useState } from 'react';
+import { loaderDelay, navDelay } from '@utils';
+
 import styled from 'styled-components';
-import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
+
 // import { email } from '@config';
 
 const StyledHeroSection = styled.section`
@@ -64,22 +66,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a first year Computer Science and Business student at the University of British Columbia.
-        I am interseted in software development and building applications
-        to solve real world problems, such as my first project{' '}
-        <a href="https://github.com/aghilann/Split-Fare" target="_blank" rel="noreferrer">
-          Split Fare
-        </a>
-        .
+        I'm a second year Computer Science and Business student at the University of British
+        Columbia. I'm comfortable with React and TS and am currently focusing on learning ExpressJS
+        and utilizing Azure services in my projects.{' '}
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://github.com/aghilann"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="https://github.com/aghilann" target="_blank" rel="noreferrer">
       Check out my latest projects!
     </a>
   );
